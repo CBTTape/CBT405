@@ -1,0 +1,41 @@
+2023-04-03 00:04:09.991993 - Initialized conversion of CBT405
+2023-04-03 00:04:10.363070 - Received CBT.V504.FILE405.PDS from FILE405.XMI 
+2023-04-03 00:04:10.365794 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:04:10.366979 - Found ###TEXT.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/###TEXT
+2023-04-03 00:04:10.368401 - Found ##DOC.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/##DOC
+2023-04-03 00:04:10.368411 - Found #DIE.bin containing application/octet-stream, moved to PDS/#DIE
+2023-04-03 00:04:10.370478 - Found #ENTER.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/#ENTER
+2023-04-03 00:04:10.371477 - Found #PUT.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/#PUT
+2023-04-03 00:04:10.372430 - Found #REGS.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/#REGS
+2023-04-03 00:04:10.373361 - Found #SORT.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/#SORT
+2023-04-03 00:04:10.373372 - Found #TEST.bin containing application/octet-stream, moved to PDS/#TEST
+2023-04-03 00:04:10.375203 - Found @FILE405.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/@FILE405
+2023-04-03 00:04:10.376161 - Found CHKPOINT.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/CHKPOINT
+2023-04-03 00:04:10.377095 - Found CMD1.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/CMD1
+2023-04-03 00:04:10.378028 - Found DLACMD00.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/DLACMD00
+2023-04-03 00:04:10.378958 - Found DLASIP00.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/DLASIP00
+2023-04-03 00:04:10.379944 - Found DSACCVTV.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/DSACCVTV
+2023-04-03 00:04:10.380925 - Found DSACTASK.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/DSACTASK
+2023-04-03 00:04:10.382112 - Found DYNABLDL.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/DYNABLDL
+2023-04-03 00:04:10.383095 - Found FCB.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/FCB
+2023-04-03 00:04:10.384060 - Found FCBPROC.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/FCBPROC
+2023-04-03 00:04:10.385560 - Found FCBSCAN.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/FCBSCAN
+2023-04-03 00:04:10.386489 - Found IEAPPNIP.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEAPPNIP
+2023-04-03 00:04:10.387453 - Found IEAVNP99.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEAVNP99
+2023-04-03 00:04:10.388380 - Found IEECVENT.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEECVENT
+2023-04-03 00:04:10.389334 - Found IEECVUSR.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEECVUSR
+2023-04-03 00:04:10.390243 - Found IEECVXIT.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEECVXIT
+2023-04-03 00:04:10.391175 - Found IEFDB401.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEFDB401
+2023-04-03 00:04:10.392239 - Found IEFZBMAP.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IEFZBMAP
+2023-04-03 00:04:10.393175 - Found IHAIQE.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IHAIQE
+2023-04-03 00:04:10.394077 - Found IHANVT.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IHANVT
+2023-04-03 00:04:10.395076 - Found IHASVC.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IHASVC
+2023-04-03 00:04:10.396146 - Found IND$DAIR.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/IND$DAIR
+2023-04-03 00:04:10.397053 - Found JCLIN.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/JCLIN
+2023-04-03 00:04:10.397919 - Found NIPDPMLB.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/NIPDPMLB
+2023-04-03 00:04:10.398967 - Found PLIBSMF0.jcl (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/PLIBSMF0
+2023-04-03 00:04:10.399934 - Found REQUESTR.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/REQUESTR
+2023-04-03 00:04:10.400917 - Found RESOURCE.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/RESOURCE
+2023-04-03 00:04:10.400929 - Found SMPFUNC.bin containing application/octet-stream, moved to PDS/SMPFUNC
+2023-04-03 00:04:10.402799 - Found ZAPNIP.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/ZAPNIP
+2023-04-03 00:04:10.403766 - Found ZAPWTO.txt (text/plain) in CBT.V504.FILE405.PDS, moved to PDS/ZAPWTO
